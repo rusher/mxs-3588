@@ -1,0 +1,15 @@
+{
+  "name": "mxs-3588",
+  "version": "0.0.1",
+  "description": "to reproduced MXS-3588 issue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mariadb": "file:../../IdeaProjects/mariadb-connector-nodejs"
+  }
+}
